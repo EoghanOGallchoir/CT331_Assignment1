@@ -1,5 +1,4 @@
-#ifndef CT331_ASSIGNMENT_GENERIC_LINKED_LIST
-#define CT331_ASSIGNMENT_GENERIC_LINKED_LIST
+
  typedef void (*printer) (void *info);
  typedef struct genericListElementStruct {
     void *info;
